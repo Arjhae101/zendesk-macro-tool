@@ -1,8 +1,8 @@
-# Zend Spreadsheet Connector
+# Zend Macro Tool
 
 ## Setup
 1. Open the [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1TaKFqCdorojgzJFctZA_Kf5FkbFgRy_H7UuwUWkhGA4) and make a copy.
-1. Update the code in the "Script Editor" with the latest version of the [zendesk-macro-tool.gs file](google-script/zendesk-macro-tool.gs) from github
+1. Update the code in the "Script Editor" with the latest version of the [zendesk-macro-tool.gs](google-script/zendesk-macro-tool.gs) file from github
 1. Create a token for your account in Zendesk
 1. Enter your credentials, your username is your Zendesk account with `/token` at the end
 
